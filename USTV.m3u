@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://pcrouthers.github.io/epg.xml.gz"
+#EXTM3U url-tvg="https://pcrouthers.github.io/epg.xml"
 #EXTINF:-1,AEEast
 https://v3.thetvapp.to/hls/AEEast.m3u8?token=Ise_rRWeI9BRUqVDw1WqmQ&expires=1708272757
 #EXTINF:-1,AMCEast
